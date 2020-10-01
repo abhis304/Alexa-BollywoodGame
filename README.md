@@ -1,4 +1,6 @@
 # Alexa-BollywoodGame
+
+https://tenor.com/view/srk-ssr-sushant-singh-rajput-shouting-gif-17550605 adding  gif in memory of SUshant Singh Rajput.
 Alexa skill for Bollywood Game
 Runner Up Skill in Alexa Skills Wizard Challenge
 
